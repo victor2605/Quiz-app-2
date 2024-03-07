@@ -1,0 +1,9 @@
+<resources>
+    <string name="question_1">Tienes mas de 18 años?</string>
+    <string name="question_2">Eres de nacionalidad mexicana?</string>
+    <string name="question_3">Estudias en el centro universitario de los valles?</string>
+    <string name="question_4">Eres de la carreta de tecnologis de la informacion?</string>
+    <string name="Verdadero">btrue</string>
+    <string name="Falso">bfalso</string>
+</resources>
+
